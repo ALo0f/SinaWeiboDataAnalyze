@@ -601,3 +601,728 @@ JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: Inv
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1608756644600	geckodriver	INFO	Listening on 127.0.0.1:49929
+1608756647690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofileCAt9Uu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608756649424	Marionette	INFO	Listening on port 49937
+1608756649745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012111312, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012111312, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012111312, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012111312, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012111312, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012111312, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012111312, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012111312, line 59: unreachable code after return statement
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162a51e0c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162a51e0c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162a4760800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162a4760800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=1629c518000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=1629c518000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162ab1a1c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162ab1a1c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162a5309000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162a5309000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162a46be800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 12460, MediaDecoderStateMachine #1] WARNING: Decoder=162a46be800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1608757642235	Marionette	INFO	Stopped listening on port 49937
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608783608377	geckodriver	INFO	Listening on 127.0.0.1:52138
+1608783611507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofileU6BbJV"
+1608783638432	geckodriver	INFO	Listening on 127.0.0.1:52196
+1608783641551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofileG6CG10"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608783646354	Marionette	INFO	Listening on port 52204
+1608783646876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608783664405	Marionette	INFO	Stopped listening on port 52204
+1608783676794	geckodriver	INFO	Listening on 127.0.0.1:52325
+1608783679948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofileAgpRCn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608783685027	Marionette	INFO	Listening on port 52334
+1608783685310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608783695291	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1608783697116	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1608783899485	Marionette	INFO	Stopped listening on port 52334
+1608783943706	geckodriver	INFO	Listening on 127.0.0.1:52601
+1608783946859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofileXCvIPf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608783952243	Marionette	INFO	Listening on port 52610
+1608783952702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608783962339	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1608783964412	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1608943899922	Marionette	INFO	Stopped listening on port 52610
+1609126363164	geckodriver	INFO	Listening on 127.0.0.1:58578
+1609126366286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofilebky3Rx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609126372474	Marionette	INFO	Listening on port 58586
+1609126372703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609126487971	Marionette	INFO	Stopped listening on port 58586
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofilezoIxGw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609126491586	Marionette	INFO	Listening on port 58711
+1609126491785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609126499947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609126502042	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1609127915079	Marionette	INFO	Stopped listening on port 58711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609127966724	geckodriver	INFO	Listening on 127.0.0.1:59218
+1609127969819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofileUzxCPb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609127974957	Marionette	INFO	Listening on port 59226
+1609127975178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609127984976	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609127987011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/feed.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/feed.js?version=202012251903, line 53: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/weiboFeedList.js?version=202012251903, line 5: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/weiboFeedList.js?version=202012251903, line 79: unreachable code after return statement
+1609128569907	Marionette	INFO	Stopped listening on port 59226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofile7uuSPJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609128567892	Marionette	INFO	Listening on port 59658
+1609128568055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609128571229	Marionette	INFO	Stopped listening on port 59658
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609128584186	geckodriver	INFO	Listening on 127.0.0.1:59763
+1609128587284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofileQiB42u"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609128592321	Marionette	INFO	Listening on port 59772
+1609128592675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609128601367	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609128603379	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1609128723351	Marionette	INFO	Stopped listening on port 59772
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609128733327	geckodriver	INFO	Listening on 127.0.0.1:60008
+1609128736453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofilejdyJHh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609128741495	Marionette	INFO	Listening on port 60016
+1609128741784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1609131281211	Marionette	INFO	Stopped listening on port 60016
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609131300252	geckodriver	INFO	Listening on 127.0.0.1:61105
+1609131303356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofilea2KWUt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609131308757	Marionette	INFO	Listening on port 61114
+1609131309244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/userFeedList.js?version=202012251903, line 59: unreachable code after return statement
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a47000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a47000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19601ae1400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19601ae1400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a27000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a27000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a27000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a27000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a3f800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a3f800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=196013a3c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=196013a3c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a3e800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a3e800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a80400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 2268, MediaDecoderStateMachine #1] WARNING: Decoder=19600a80400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1609133699540	Marionette	INFO	Stopped listening on port 61114
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609213402039	geckodriver	INFO	Listening on 127.0.0.1:51541
+1609213405148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofileXwRWP7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609213410771	Marionette	INFO	Listening on port 51549
+1609213411026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://weibo.com/aj/v6/user/newcard?ajwvr=6&id=2591595652&type=0&refer_flag=1005055014_&callback=STK_1609213501547209, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://weibo.com/aj/v6/user/newcard?ajwvr=6&id=2591595652&type=0&refer_flag=1005055014_&callback=STK_1609213501547212, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://weibo.com/aj/v6/user/newcard?ajwvr=6&name=%E8%8C%83%E4%B8%9E%E4%B8%9EAdam0616&type=1&callback=STK_1609213501547341, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://weibo.com/aj/v6/user/newcard?ajwvr=6&name=%E5%B0%A4%E9%95%BF%E9%9D%96&type=1&callback=STK_1609213501547397, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://weibo.com/aj/v6/user/newcard?ajwvr=6&name=%E9%87%91%E5%AD%90%E6%B6%B5_Aria&type=1&callback=STK_1609213501547421, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://weibo.com/aj/v6/user/newcard?ajwvr=6&name=%E9%A9%AC%E4%BC%AF%E9%AA%9EVictor&type=1&callback=STK_1609213501547425, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: https://weibo.com/aj/v6/user/newcard?ajwvr=6&id=2591595652&type=0&refer_flag=1005055014_&callback=STK_1609213501547443, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://weibo.com/aj/v6/user/newcard?ajwvr=6&id=2591595652&type=0&refer_flag=1005055014_&callback=STK_1609213501547445, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: https://weibo.com/aj/v6/user/newcard?ajwvr=6&name=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&type=1&callback=STK_1609213501547464, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1609218221000	Marionette	INFO	Stopped listening on port 51549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609218741479	geckodriver	INFO	Listening on 127.0.0.1:52705
+1609218744558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TIANYI\\AppData\\Local\\Temp\\rust_mozprofile9dyrhj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609218746273	Marionette	INFO	Listening on port 52714
+1609218746617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609218758178	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609218760899	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 12736, MediaDecoderStateMachine #1] WARNING: Decoder=1b66d68a800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 12736, MediaDecoderStateMachine #1] WARNING: Decoder=1b66d68a800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Child 12736, MediaDecoderStateMachine #1] WARNING: Decoder=1b66669fc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:376
+[Child 12736, MediaDecoderStateMachine #1] WARNING: Decoder=1b66669fc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.t.sinajs.cn/t5/pack/static/videojs/V20200802182711.js?version=737b1bcbc5c6542c, line 4: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1609220283016	Marionette	INFO	Stopped listening on port 52714
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
